@@ -1,0 +1,10 @@
+components -> modules that we are going to use specificially in the project
+
+pipeline-> training pipeline , prediciton pipeline
+
+from training pipeline all the modules in components would be called
+
+for importing any directory or package we have to make __init__py file inside the directory by this we treat the directory as a package
+
+
+utils -> to write functionality for entire application, read a database from a database, save a model on cloud
